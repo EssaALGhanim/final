@@ -30,11 +30,11 @@ It combines structured listings, **AI-assisted negotiation**, secure **payments*
 
 ### Payments & Documents
 - Moyasar credit card flow with 3-D Secure and callbacks.  
-- Auto-generate PDF **contracts/invoices** via Adobe API.  
+- Auto-generate PDF invoices via Adobe API.  
 - Store payment IDs/status and link to deals.
 
 ### Notifications
-- WhatsApp messages for updates, receipts and OTP.  
+- WhatsApp messages for updates, invoices and OTP.  
 - Call logs call summaries.
 
 ### Subscriptions & Ratings
