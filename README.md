@@ -6,7 +6,7 @@
 
 ## Overview
 **Fawid** is a digital platform that streamlines buying and selling for **cars** and **real estate** in Saudi Arabia.  
-It combines structured listings, **AI-assisted negotiation**, secure **payments**, and **document automation**—with multi-channel notifications—so deals close faster and with more trust.
+It combines structured listings, **AI-assisted negotiation**, secure **payments**, and **document automation** —with notifications— so deals close faster and with more trust.
 
 ---
 
