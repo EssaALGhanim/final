@@ -3,6 +3,46 @@
 **Developers:** Hatem Alawwad - ESSA ALGHANIM - ABDULLAH ALESSA
 
 ---
+## Essa
+
+### CarListing
+- `getCarListings` — Get all car listings  
+- `listCar` — Create a new car listing  
+
+### RealEstateListing
+- `getRealEstateListings` — Get all real-estate listings  
+- `listRealEstate` — Create a new real-estate listing  
+
+### Listing
+- `getAllListings` — Get all listings (cars + real estate)  
+- `getListingsBySeller` — Get listings for the current seller  
+- `getListingsByStatus` — Filter listings by status  
+- `getListingsByType` — Filter listings by type/subtype  
+- `searchListings` — Search listings by query  
+- `getListingById` — Get a listing by ID  
+- `deleteListing` — Delete a listing by ID  
+
+### Search (saved searches & results)
+- `createCarSearch` — Save a car search for a buyer  
+- `createRealEstateSearch` — Save a real-estate search for a buyer  
+- `getSearchResults` — Get results for a saved search  
+
+### CallLog
+- `syncCallLogsFromApi` — Sync/import call logs for a seller from external provider  
+- `getAllCallLogs` — List call logs  
+- `getCallLogById` — Get a call log by internal ID  
+- `getCallLogsByPhoneNumber` — Filter by phone number  
+- `getCallLogsByStartedAt` — Filter by start timestamp  
+- `getCallLogsByStatus` — Filter by status  
+- `getCallLogsBySeller` — Filter by seller ID  
+- `getCallLogsByDateRange` — Filter by date range  
+- `getCallLogsBySellerAndStatus` — Filter by seller + status  
+
+### Rating
+- `getAllByBuyer` — Ratings visible to the buyer  
+- `getBySeller` — Ratings visible to the seller  
+- `addRating` — Buyer rates a seller for a completed deal  
+---
 
 ## APIs fetched:
 - **Moyasar** (payments)  
